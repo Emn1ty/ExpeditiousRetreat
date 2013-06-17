@@ -1,4 +1,4 @@
 ExpeditiousRetreat
 ==================
 
-Test Branch for syncing github w/ hosting server
+Open Source web project for ##exretreat, #d&d and other pen and paper channels on Freenode.
